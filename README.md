@@ -1,8 +1,16 @@
-# Angan Samadder
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Full-Stack+Engineer;AI%2FML+Specialist;Mobile+%26+Web+Developer;4.0+GPA+at+UGA;Always+Learning)](https://git.io/typing-svg)
+# Angan Samadder
+
+
+⠀⠠⠤⣤⣀⣀⣀⣠⡤⠴⠲⣶⡶⠤⠤⠤⢀⢀⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⣿⣇⡒⠢⣤⢖⣹⠢⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣼⣿⣿⠇⠀⠀⠀⠀⣿⣦⣠⣤⠂⠤⠤⠜⠛⠀⠀⠀⢠⡤⠤⣄⡤⠖⢊⣻⣀⣟⣸⠛⣿⡗⢾⣷⣶⠾⢿⣲⢄⠀⠀⠀⠀⠀⠀
+⠀⠀⢠⣿⣿⣇⣄⠦⣤⣀⣀⠀⠀⣀⣫⡗⠦⣀⠀⠀⠀⠀⠀⠀⠉⠐⢿⡶⠚⠭⠅⢉⣩⢵⣾⣿⣷⣿⣿⣉⣀⡀⠙⣿⣮⣰⣶⣶⠦⠤
+⠒⠠⠿⠿⢿⣻⣿⣆⠀⠉⢙⣻⣿⠿⣽⣶⠿⣞⣛⡒⠤⡄⣀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠈⠑⢦⣏⠍⠉⣀⠉⠉⠛⠳⠞⢁⣿⣿⡏⠀⠀
+⠀⠀⠀⠀⠀⠀⠑⠬⣿⡶⠿⣿⣿⢲⡿⣧⣾⢉⣏⢹⡟⠛⢉⣽⣗⠠⣀⠀⠀⠀⢀⣤⠒⠒⠠⠝⠻⠿⣿⡇⠀⠀⠀⢀⣾⣿⣿⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠤⣟⣻⠾⠥⢤⣹⣿⣣⠞⠓⠉⠁⠀⠉⠙⠛⠀⠀⠀⠈⠛⠒⠂⠂⠒⠒⠒⠿⠷⠖⠒⠋⠉⠉⠙⠛⠧⢀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈
+
 
 </div>
 
@@ -13,450 +21,368 @@
   <a href="https://www.linkedin.com/in/angansamadder">
     <img src="https://img.shields.io/badge/LinkedIn-Angan%20Samadder-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="tel:+18586839903">
-    <img src="https://img.shields.io/badge/Phone-(858)%20683--9903-green?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/Location-Atlanta,%20GA-orange?style=for-the-badge&logo=map-pin&logoColor=white" />
 </p>
 
 ---
 
-## 🎯 About Me
+## ⚡ What I Do
 
-I'm a **dual-degree student** at the University of Georgia pursuing a **B.S. in Computer Science** and **B.S. in Mathematics** with a **4.00 GPA**. My passion lies at the intersection of software engineering and artificial intelligence—building scalable systems that leverage machine learning to solve real-world problems.
+I'm a **Software and Data Engineer** at State Farm with a **CS + Math** dual-degree who loves building complex systems. I don't just "use" AI—I architect the pipelines, optimize the inference, and build the full-stack apps that wrap them.
 
-With **3+ years of professional experience** spanning data science, product ownership, and full-stack development, I've worked with startups and Fortune 500 companies alike. I'm currently focused on AI-powered applications, cloud infrastructure, and creating seamless user experiences across web and mobile platforms.
-
----
-
-## 🚀 Featured Projects
-
-### 1. **TasteTinker** 🍳
-> AI-Powered Recipe Generation Platform | *December 2024*
-
-**The Problem:** Creating recipes from scratch is time-consuming and requires extensive culinary knowledge.
-
-**The Solution:** Built a comprehensive AI-driven recipe generation platform that transforms user preferences and available ingredients into personalized, nutrition-conscious recipes.
-
-**Key Achievements:**
-- 🎨 Designed an intuitive **Swift-based iOS app** with smooth animations and responsive UI
-- 🧠 Implemented **state-of-the-art NLP models** using HuggingFace Transformers for ingredient recognition and recipe generation
-- ⚡ Optimized ML inference with **CUDA acceleration** for real-time recipe suggestions
-- 🗄️ Architected scalable backend with **PostgreSQL**, **Django**, and **Docker** for containerized deployment
-- 🔥 Leveraged **DGL, LightGBM, XGBoost**, and multi-modal embeddings for advanced recommendation systems
-- 🤖 Integrated **LLM-powered applications** with RAG (Retrieval Augmented Generation) for contextual cooking assistance
-
-**Tech Stack:** `Swift` `TensorFlow` `PyTorch` `CUDA` `PostgreSQL` `Docker` `Django` `HuggingFace` `NLP` `DGL` `LightGBM` `Transformers` `XGBoost` `RAG` `LLM`
+Whether it's reverse-engineering mobile data networks, training GANs to design game levels, or building offline-first mobile apps, I'm obsessed with **scalable architecture** and **clean code**.
 
 ---
 
-### 2. **PayBack** 💰
-> Expense Tracking & Budget Management iOS App | *Active Development*
+## 🧪 The Lab (Featured Projects)
 
-**The Problem:** Existing budgeting apps are either too simple or overwhelming—users need something powerful yet intuitive.
+### 💸 **PayBack**
+> *Collaborative finance at the speed of thought.*
+>
+> **Tech Stack:** `SwiftUI` `Convex` `Swift` `Clerk` `XcodeGen`
 
-**The Solution:** A sophisticated iOS application for tracking expenses, managing budgets, and visualizing spending patterns with beautiful data visualizations.
+A next-generation expense splitter engineered for zero friction. PayBack replaces clunky manual entry with a fluid, offline-first interface that syncs instantly. It treats shared finance as a real-time multiplayer experience, ensuring everyone stays settled up without the awkward math.
+*   **Predictive Smart-Splits:** Uses historical data and group context to intelligently suggest split percentages and categories, reducing entry time by 80%.
+*   **Graph-Optimized Settlements:** Minimizes payment cycles within complex groups using network flow algorithms, turning a web of debts into the fewest possible transactions.
+*   **Transitive Identity Resolution:** Implemented a transitive alias system (`A->B->C`) to merge "shadow members" (offline placeholders) into real user accounts when they sign up, preventing data fragmentation.
 
-**Key Achievements:**
-- 📱 Built entirely in **Swift** following MVVM architecture with **Core Data** for local persistence
-- 📊 Implemented interactive charts and spending analytics using **Swift Charts**
-- 🔐 Integrated secure authentication with **Keychain Services**
-- 🎨 Designed custom UI components with **SwiftUI** for fluid user experience
-- 📤 Built seamless export capabilities for financial reports
+### 🧩 **z-spin**
+> *Tetris at the speed of light.*
+>
+> **Tech Stack:** `Rust` `WebAssembly` `WebGL` `TypeScript` `Rayon`
 
-**Tech Stack:** `Swift` `SwiftUI` `Core Data` `MVVM` `Keychain` `Swift Charts`
+A superhuman Tetris engine engineered in Rust. It doesn't just play; it solves the game. By combining a highly optimized SRS (Super Rotation System) implementation with a custom pathfinding algorithm, z-spin executes T-Spins and Perfect Clears at speeds no human can match.
+*   **Kick-Table Pathfinding:** Implemented a specialized A* search that treats the SRS kick table as a graph traversal problem. This allows the bot to "twist" pieces into impossible gaps by exploiting frame-perfect rotation mechanics that standard BFS would miss.
+*   **Smart Mixed Strategies:** The evaluation function isn't static; it dynamically switches between "Survival" (stack flat), "T-Spin Setup" (build overhangs), and "Downstack" (burn lines) modes based on the current garbage queue and board height.
+*   **Rust Optimization:** Leveraged Rust's zero-cost abstractions to implement bitwise collision detection that runs 100x faster than traditional object-oriented grids, allowing the bot to look ahead 10+ pieces in real-time.
 
----
+### 🛠️ **OpenCode Plugins & Features**
+> *Extending the AI engineer's OS.*
 
-### 3. **Finsights** 📈
-> AI-Powered Financial Analysis Platform | *September 2024*
+The core of my daily workflow. I maintain a suite of plugins for the OpenCode agent runtime.
 
-**The Problem:** Analyzing 20 years of SEC filings manually is impossible—institutional investors need intelligent tools to extract insights.
+#### 🖥️ **OpenTmux**
+> **Tech Stack:** `TypeScript` `Tmux` `Node-pty` `Process Orchestration`
 
-**The Solution:** An AI-driven financial analysis platform that processes decades of 10-K filings using **Retrieval Augmented Generation (RAG)** to answer complex financial queries in natural language.
+A robust terminal manager that gives the agent persistent shell sessions.
+*   **Session Management:** Maintains a `Map<sessionId, TrackedSession>` state machine to map agent sub-tasks to specific tmux panes.
+*   **Zombie Reaper:** A background garbage collector that scans the process tree for orphaned `attach` processes and kills them if the parent session is dead, preventing resource leaks.
+*   **Spawn Queue:** Serializes pane creation with a mutex-like queue to prevent race conditions during parallel agent execution.
 
-**Key Achievements:**
-- 📄 Processed and vectorized **20 years of SEC 10-K filings** using **Cohere embeddings**
-- 🔍 Built high-performance vector search with **PineconeDB** for sub-second query responses
-- 🤖 Integrated **LangChain** for orchestrating LLM workflows and contextual document retrieval
-- 📈 Implemented **LSTM models** for time-series forecasting of stock trends
-- 📊 Analyzed **40+ financial indicators** using Yahoo Finance API with statistical methods
-- 🌐 Created responsive frontend with **React** and robust backend with **Flask**
+#### 🔐 **Better Cursor Auth**
+> **Tech Stack:** `TypeScript` `Reverse Engineering` `Protobuf` `HTTP/2` `SQLite`
 
-**Tech Stack:** `Python` `RAG` `Cohere` `PineconeDB` `LangChain` `React` `Flask` `LSTM` `NLP` `Time-Series Analysis` `REST APIs`
+A custom authentication handler that bypasses the flaky standard login flow.
+*   **Deep Reverse Engineering:** Manually constructs binary **Protobuf** messages byte-by-byte to perfectly mimic the official Cursor client, including custom checksums and machine ID generation.
+*   **Direct DB Access:** Bypasses the keychain to read the encrypted `accessToken` directly from Cursor's internal `state.vscdb` SQLite database.
+*   **Native HTTP/2:** Implements a full duplex HTTP/2 client to stream tokens directly to the `api2.cursor.sh` endpoint, bypassing intermediate proxies.
 
----
+#### 🔄 **Auto Update**
+> **Tech Stack:** `Semver` `Git` `CI/CD`
 
-### 4. **FlickFlare** 🎬
-> Full-Stack Movie Ticket Booking Platform | *May 2024*
+A self-healing mechanism that allows the agent to update its own runtime code. It checks for upstream releases, resolves conflicts, and hot-reloads the plugin registry without restarting the session.
 
-**The Problem:** Movie ticket platforms are often slow, unintuitive, and lack seamless user experiences.
+#### 🌟 **OpenCode Glow**
+> **Tech Stack:** `Glow` `Go` `Markdown`
+>
+> **⚠️ Note:** *Experimental. Incompatible with the standard OpenCode release; requires the custom Display Transform Hook fork.*
 
-**The Solution:** A production-grade movie browsing and ticket booking platform with real-time seat selection, user authentication, and comprehensive admin dashboards.
+Integrates Charm's **Glow** renderer to give the agent rich, syntax-highlighted markdown output in the terminal. It transforms raw text responses into beautiful, readable documentation.
 
-**Key Achievements:**
-- 🎨 Built responsive frontend with **Next.js**, **React**, and **Tailwind CSS**
-- 🔐 Implemented secure authentication and authorization with **JWT tokens**
-- 🎟️ Created real-time seat selection system with conflict resolution
-- 👤 Designed user profile management with booking history and preferences
-- 🛠️ Built comprehensive admin panel for theater management
-- 🗄️ Architected relational database schema with **MySQL** and **Spring Boot** backend
+#### 🚀 **Display Transform Hook**
+> **Tech Stack:** `TypeScript` `React Ink` `Stream Transformers`
 
-**Tech Stack:** `Next.js` `React` `TypeScript` `MySQL` `Tailwind CSS` `Spring Boot` `Java` `REST APIs` `JWT` `Vercel`
+A custom rendering engine engineered for high-frequency token streaming.
+*   **The Hook:** Intercepts the LLM's stdout stream and applies a custom "chunking" transform that batches tokens into 50ms render frames. This prevents React Ink from thrashing the TTY during high-speed generation (100+ tokens/sec).
+*   **Status:** Currently running in a private fork; preparing a Pull Request to merge this performance optimization into the core OpenCode runtime.
 
----
 
-### 5. **Pen2Panel** 🎨
-> AI-Powered Comic Generation | *February 2024*
+### 🍳 **TasteTinker**
+> *The computational chef that hallucinates deliciousness.*
+>
+> **Tech Stack:** `SwiftUI` `Django` `PyTorch` `CoreML` `Docker`
 
-**The Problem:** Creating professional comic art requires years of artistic training—what if anyone could sketch and let AI do the rest?
+A culinary AI that doesn't just scrape recipes—it invents them. By modeling flavor compounds as a high-dimensional vector space, TasteTinker creates novel gastronomic pairings that strictly adhere to molecular gastronomy principles.
+*   **Molecular Flavor Graph:** Built a knowledge graph of 50,000+ ingredients linked by shared volatile compounds, allowing the AI to suggest chemically-compatible but surprising pairings (e.g., White Chocolate & Caviar).
+*   **Visual Pantry Analysis:** Implemented a multi-modal RAG pipeline where users snap a photo of their fridge, and a vision transformer (ViT) segments ingredients to seed the generation context.
+*   **Hybrid Inference Engine:** Orchestrates a 7B parameter LLM for creativity and a constrained solver for nutrition/safety, ensuring recipes are edible while running sub-100ms on a T4 GPU.
 
-**The Solution:** An AI-powered application that transforms simple stick figures into detailed, professional comic book panels using computer vision and generative AI.
+### 🍄 **MarioGAN**
+> *Infinite Mario, generated by dreaming machines.*
+>
+> **Tech Stack:** `PyTorch` `Java` `WGAN-GP` `CMA-ES` `VGLC`
 
-**Key Achievements:**
-- 🖼️ Implemented advanced image processing with **OpenCV** for sketch recognition
-- 🧠 Trained custom **TensorFlow** models for style transfer and detail enhancement
-- 🎨 Integrated **Generative AI models** for artistic rendering and panel composition
-- 📱 Built intuitive interface for sketching and real-time preview
-- ⚡ Optimized inference pipeline for near real-time generation
+A procedural content generation system that doesn't just stack blocks—it *evolves* them. By coupling a Wasserstein GAN with an evolutionary search algorithm (CMA-ES), MarioGAN discovers latent vectors that map to playable, high-difficulty levels that no human designed.
+*   **Latent Variable Evolution (LVE):** Instead of training an agent to build levels, I optimize the input noise vector of a frozen GAN using CMA-ES. This forces the generator to output levels that maximize a specific fitness function (e.g., "number of enemies").
+*   **Playability Constraints:** Integrated the Mario AI Framework (Java) as a fitness validator. Every generated level is simulation-tested by an A* agent; unplayable levels receive a fitness penalty, steering the evolutionary search back to valid manifolds.
+*   **Style Transfer:** The GAN was trained on the VGLC (Video Game Level Corpus), allowing it to interpolate between "Overworld" and "Underground" styles by traversing the latent space.
 
-**Tech Stack:** `Python` `OpenCV` `TensorFlow` `Generative AI` `Computer Vision` `Deep Learning`
+### 📈 **Finsights**
+> *Wall Street-grade analysis, democratized.*
+>
+> **Tech Stack:** `Next.js` `Python` `TensorFlow` `Edgar-Tools` `Alpaca API`
 
----
+An institutional-grade financial intelligence platform. It doesn't just read news; it parses millions of SEC filings and cross-references them with real-time market data to find alpha that human analysts miss.
+*   **Neural Market Forecasting:** Implemented a recursive **LSTM (Long Short-Term Memory)** network that trains on 10+ years of OHLC data to predict 30-day price trends with surprisingly high conviction.
+*   **Semantic SEC Parsing:** Built a custom ingestion pipeline using `edgar-tools` that intelligently filters 10-Ks for high-signal sections (MD&A, Risk Factors) before feeding them into the context window, reducing noise by 90%.
+*   **Whale Tracking:** Real-time analysis of 13F filings to reverse-engineer the positions of major funds like Renaissance Technologies and BlackRock.
 
-### 6. **DanceVision** 💃
-> AI-Powered Dance Tutor | *February 2023*
+### 📱 **AR-You-Covered**
+> *Pokemon Go, but for insurance claims.*
+>
+> **Tech Stack:** `Kotlin` `ARCore` `Jetpack Compose` `Firebase` `Google Maps`
 
-**The Problem:** Learning dance at home without feedback is ineffective—people need real-time guidance.
+A geolocation-based AR game that gamifies the insurance inspection process. Users physically walk to geofenced locations to "capture" virtual hazards or assets overlayed on the real world.
+*   **Clean Architecture:** Migrated the legacy `java` codebase to a modern `kotlin` multi-module architecture, separating Domain, Data, and Presentation layers for testability.
+*   **Geofence Service:** Implemented a background broadcast receiver that triggers AR encounters only when the user enters a 15m radius of a target coordinate, optimizing battery life by keeping the camera off until needed.
+*   **SceneView Integration:** Replaced the deprecated Sceneform library with SceneView for rendering 3D assets, enabling high-fidelity PBR materials and shadows on Android devices.
 
-**The Solution:** A computer vision-based application that analyzes dance movements in real-time and provides AI-generated feedback, making professional dance instruction accessible from home.
+### 🎨 **Pen2Panel**
+> *Sketches to Comics, instantly.*
+>
+> **Tech Stack:** `Next.js` `Python` `Gemini Pro` `Stable Diffusion` `Flask`
 
-**Key Achievements:**
-- 👁️ Implemented **YOLOv5** for real-time human pose detection and tracking
-- 📹 Built video processing pipeline with **OpenCV** for frame-by-frame analysis
-- 🧠 Created movement comparison algorithms using **TensorFlow**
-- 💬 Designed feedback generation system with actionable improvement suggestions
-- 🌐 Deployed web interface with **Flask** for accessibility across devices
+A generative AI pipeline that transforms rough storyboard sketches into fully rendered comic panels. It combines Gemini for narrative expansion with Stable Diffusion for visual rendering, automating the tedious parts of comic creation.
+*   **Multi-Modal Pipeline:** Orchestrates a two-step generation process: first, Gemini Pro expands a simple prompt into a detailed scene description, which is then fed into Stable Diffusion to generate the final panel.
+*   **ControlNet Integration:** Leverages the Dezgo API (Stable Diffusion ControlNet) to preserve the artist's original composition from the rough sketch while rendering high-fidelity details.
+*   **Automated Storyboarding:** Uses LLM-driven scene analysis to decompose a text script into optimal panel layouts and visual prompts.
 
-**Tech Stack:** `Python` `OpenCV` `YOLOv5` `TensorFlow` `Computer Vision` `Pose Detection` `Flask`
 
----
+### 📝 **Swift Note**
+> *Notion, but fast. Really fast.*
+>
+> **Tech Stack:** `Next.js 15` `Lexical` `TypeScript` `Tailwind CSS` `Vercel`
 
-### 7. **HandsTogether** 🤝
-> Crowdsourcing Platform for Non-Profits | *December 2020*
+A collaborative, block-based editor designed for speed. Built on Meta's Lexical framework, it drops the heavy bloat of Electron apps for a pure web experience that loads in <50ms.
+*   **Offline-First PWA:** Engineered a robust Service Worker strategy that caches the entire editor runtime, allowing full functionality (create, edit, search) even when completely disconnected.
+*   **Keyboard-Driven Workflow:** Implemented a comprehensive command palette and shortcut system that allows power users to navigate and manipulate the document tree without ever touching the mouse.
+*   **Zero-Layout Shift:** A rewrite of the rendering engine using Next.js 15 Server Components to ensure the document layout is stable before the JavaScript bundle even hydrates.
 
-**The Problem:** Non-profits, donors, and people in need exist in silos—creating inefficiencies in charitable giving.
-
-**The Solution:** A cross-platform mobile application that bridges the gap between non-profits, donors, and beneficiaries by controlling the flow of donations and ensuring transparency.
-
-**Key Achievements:**
-- 🏆 **Won 1st Place** in TCS goIT Challenge
-- 📱 Built cross-platform iOS & Android app with **Flutter** and **Dart**
-- 🔥 Integrated **Firebase** for real-time data synchronization and authentication
-- 💳 Implemented secure payment processing for donations
-- 📊 Created dashboard for non-profits to track impact and manage campaigns
-- 🔒 Ensured data privacy and compliance with charitable regulations
-
-**Tech Stack:** `Flutter` `Firebase` `Dart` `Mobile Development` `Authentication` `Real-time Database`
-
----
-
-### 8. **AR-You-Covered** 📱
-> Augmented Reality Safety Application | *June 2025*
-
-**The Problem:** People need to quickly check if their surroundings are safe without manually searching safety data.
-
-**The Solution:** An **Android AR application** that overlays safety information onto the real world, helping users make informed decisions about their environment.
-
-**Key Achievements:**
-- 📱 Built native Android application with **Kotlin**
-- 🥽 Integrated **ARCore** for seamless augmented reality experiences
-- 🗺️ Implemented location-based services for contextual safety information
-- 🎨 Designed intuitive AR interface with minimal user friction
-
-**Tech Stack:** `Kotlin` `Android` `ARCore` `Augmented Reality` `Location Services`
-
----
-
-### 9. **OpenCode Ecosystem** 🤖
-> Suite of Tools for AI-Powered Development | *Active Development*
-
-**The Problem:** AI coding assistants need better configuration management, plugin ecosystems, and workflow optimization.
-
-**The Solution:** A comprehensive suite of plugins and tools enhancing the OpenCode AI development environment.
-
-**Key Achievements:**
-- 🔌 Built **opencode-plugin-auto-update** for seamless plugin management
-- 🔄 Created **opencode-synced** for configuration synchronization across machines
-- ✨ Developed **opencode-glow** for enhanced chat display with code block preservation
-- 📚 Curated **awesome-opencode** resource list for the community
-- 🖥️ Designed **opentmux** for terminal multiplexing integration
-- ⚡ Implemented auto-update mechanisms with rollback capabilities
-
-**Tech Stack:** `TypeScript` `Node.js` `Plugin Architecture` `CLI Tools` `GitHub API` `Configuration Management`
 
 ---
 
-### 10. **MarioGAN** 🍄
-> Procedural Level Generation with GANs | *April 2025*
-
-**The Problem:** Creating engaging game levels manually is time-consuming and expensive.
-
-**The Solution:** A **Generative Adversarial Network (GAN)** that procedurally generates Mario-style platformer levels, learning from existing level designs to create new, playable experiences.
-
-**Key Achievements:**
-- 🎮 Implemented **GAN architecture** with generator and discriminator networks
-- 🗺️ Designed level encoding schemes for effective neural network training
-- 🎯 Created fitness functions for evaluating playability and fun factor
-- ☕ Built in **Java** with extensible architecture for different game styles
-- 📊 Analyzed generated levels for balance and difficulty curves
-
-**Tech Stack:** `Java` `GANs` `Deep Learning` `Procedural Generation` `Game Development`
-
----
-
-## 💼 Professional Experience
-
-### **Mobilewalla** — Product Owner & Data Scientist
-*June 2021 – August 2024 (Multiple Internships)*
-
-Pioneered patent-pending methodologies for assessing network quality using mobile data analytics at scale.
-
-**Key Contributions:**
-- 🧪 Conducted research resulting in **patent-pending methods** for network quality assessment
-- 📊 Developed **ANOVOS** ([anovos.ai](https://www.anovos.ai))—an open-source feature engineering library now used by enterprise clients
-- ☁️ Architected scalable ML pipelines on **AWS EMR** leveraging **TensorFlow**, **PyTorch**, **Apache Spark**
-- 🚀 Deployed production systems using **Jenkins**, **Kubernetes**, and **AWS EC2**
-- 📈 Analyzed massive datasets using **Python**, **SQL**, **Pandas**, **NumPy**, and **PySpark**
-- 🛠️ Managed infrastructure with **AWS** (EC2, S3, EMR, Lambda) and **Terraform**
-- 👥 Led international teams using **JIRA** and agile methodologies
-- ✍️ Co-authored academic paper on mobile data analysis methodologies
-
-**Tech Stack:** `Python` `Apache Spark` `PySpark` `AWS` `TensorFlow` `PyTorch` `Jenkins` `Kubernetes` `SQL` `Pandas` `NumPy` `JIRA` `Terraform`
-
----
-
-### **Verizon** — Communication Consulting Intern
-*October 2021 – May 2022*
-
-Streamlined monitoring processes for Verizon's **5G Home Internet Service** using data-driven insights.
-
-**Key Contributions:**
-- 📊 Led a team of consultants working with corporate executives
-- ⚡ Enhanced release efficiency through data analysis techniques
-- 📈 Developed monitoring dashboards for real-time service quality assessment
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ The Arsenal
 
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white" />
+<p align="left">
+  <!-- Web & Scripting -->
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <!-- Systems & Performance -->
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" /></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a href="https://elixir-lang.org/"><img src="https://img.shields.io/badge/Elixir-4E2A8E?style=for-the-badge&logo=elixir&logoColor=white" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /></a>
+  <!-- Enterprise & Classic -->
+  <a href="https://dev.java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="https://www.ruby-lang.org/en/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></a>
+  <!-- Mobile -->
+  <a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" /></a>
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <!-- Data & Specialized -->
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" /></a>
+  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
+  <!-- Scripting & Base -->
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+  <a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/Zsh-EA5134?style=for-the-badge&logo=zsh&logoColor=white" /></a>
+  <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" /></a>
 </p>
 
-### Frontend & Mobile
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+### Frontend Development
+<p align="left">
+  <!-- Modern Stack -->
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="https://tanstack.com/"><img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a>
+  <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /></a>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /></a>
+  <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
+  <!-- CSS & UI -->
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="https://ui.shadcn.com/"><img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /></a>
+  <a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /></a>
+  <a href="https://mui.com/"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+  <!-- Graphics & State -->
+  <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" /></a>
+  <a href="https://www.khronos.org/webgl/"><img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" /></a>
+  <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
+  <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /></a>
 </p>
 
-### Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+### Backend Services
+<p align="left">
+  <!-- Modern Runtimes -->
+  <a href="https://bun.sh/"><img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=FBF0DF" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+  <!-- Enterprise Frameworks -->
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+  <a href="https://rubyonrails.org/"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
+  <!-- Communication & Event Streaming -->
+  <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
+  <a href="https://grpc.io/"><img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" /></a>
+  <a href="https://gofiber.io/"><img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a href="https://ktor.io/"><img src="https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
+  <a href="https://trpc.io/"><img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" /></a>
 </p>
 
-### AI/ML & Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB342C?style=flat-square&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-20BEFF?style=flat-square&logo=lightgbm&logoColor=white" />
+### Mobile & Game Dev
+<p align="left">
+  <!-- Mobile Native & Cross-Platform -->
+  <a href="https://developer.apple.com/ios/"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" /></a>
+  <a href="https://developer.apple.com/documentation/uikit"><img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <!-- Game Engines -->
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
+  <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /></a>
+  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /></a>
+  <a href="https://developer.apple.com/documentation/coredata"><img src="https://img.shields.io/badge/Core_Data-007AFF?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://developer.apple.com/documentation/combine"><img src="https://img.shields.io/badge/Combine-F05138?style=for-the-badge&logo=swift&logoColor=white" /></a>
+  <a href="https://developer.apple.com/documentation/xctest"><img src="https://img.shields.io/badge/XCTest-007AFF?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://developer.apple.com/documentation/avfoundation"><img src="https://img.shields.io/badge/AVFoundation-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://developer.apple.com/documentation/quartzcore"><img src="https://img.shields.io/badge/Core_Animation-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://developer.apple.com/metal/"><img src="https://img.shields.io/badge/Metal-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://developer.apple.com/augmented-reality/arkit/"><img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://developers.google.com/ar"><img src="https://img.shields.io/badge/ARCore-202124?style=for-the-badge&logo=arcore&logoColor=white" /></a>
 </p>
 
-### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+### AI, ML & Data Science
+<p align="left">
+  <!-- Core Frameworks -->
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+  <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /></a>
+  <!-- LLMs & GenAI -->
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></a>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Anthropic-D19C6D?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="https://stability.ai/"><img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge" /></a>
+  <a href="https://docs.ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" /></a>
+  <a href="https://groq.com/"><img src="https://img.shields.io/badge/GROQ-F55033?style=for-the-badge" /></a>
+  <!-- Data Engineering & Viz -->
+  <a href="https://developer.nvidia.com/cuda-zone"><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&logo=python&logoColor=white" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white&logo=python&logoColor=white" /></a>
+  <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /></a>
+  <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /></a>
+  <a href="https://hadoop.apache.org/"><img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" /></a>
 </p>
 
 ### Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PineconeDB-000000?style=flat-square&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<p align="left">
+  <!-- Relational (SQL) -->
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  <!-- Vector & AI Databases -->
+  <a href="https://www.convex.dev/"><img src="https://img.shields.io/badge/Convex-DB2777?style=for-the-badge&logo=convex&logoColor=white" /></a>
+  <a href="https://www.pinecone.io/"><img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" /></a>
+  <a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=python&logoColor=white&logo=python&logoColor=white" /></a>
+  <a href="https://typeorm.io/"><img src="https://img.shields.io/badge/TypeORM-FE0C05?style=for-the-badge&logo=typeorm&logoColor=white" /></a>
+  <!-- NoSQL & Real-time -->
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/dynamodb/"><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://cassandra.apache.org/"><img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" /></a>
+  <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cohere-5D5DFF?style=flat-square&logo=cohere&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/ARCore-FF6C37?style=flat-square&logo=google-ar&logoColor=white" />
+### DevOps & Cloud
+<p align="left">
+  <!-- Cloud Providers -->
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/glue/"><img src="https://img.shields.io/badge/AWS_Glue-000000?style=for-the-badge&logo=aws&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/cloudwatch/"><img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+  <!-- PaaS & Monitoring -->
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.starburst.io/"><img src="https://img.shields.io/badge/Starburst-003366?style=for-the-badge&logo=starburst&logoColor=white" /></a>
+  <!-- CI/CD & Automation -->
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
+  <a href="https://docs.gitlab.com/ee/ci/"><img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></a>
+  <a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" /></a>
 </p>
 
----
-
-## ➕ Extras (Delete What You Don't Use)
-
-### Technologies I've Worked With
-<p>
-  <!-- Add/Remove as needed -->
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
-</p>
-
-### Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-</p>
-
-### Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-</p>
-
-### Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apache-cordova&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" />
-</p>
-
-### Tools & Productivity
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnganSamadder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnganSamadder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnganSamadder&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
----
-
-## 🎓 Education
-
-**University of Georgia** | August 2022 – May 2026
-- **Bachelor of Science in Computer Science**
-- **Bachelor of Science in Mathematics**
-- **GPA: 4.00 / 4.00** ⭐
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place** — TCS goIT Challenge (HandsTogether)
-- 📜 **Patent Pending** — Network Quality Assessment Methodology (Mobilewalla)
-- ✍️ **Academic Paper** — Mobile Data Analysis Research
-- 🎯 **4.00 GPA** — University of Georgia (Dual Degree)
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:rio.angan@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-rio.angan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/angansamadder">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AnganSamadder">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+### Tools & OS
+<p align="left">
+  <!-- AI Coding -->
+  <a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="https://openai.com/blog/openai-codex"><img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="https://deepmind.google/"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <!-- Editors -->
+  <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /></a>
+  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" /></a>
+  <!-- Development -->
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+  <a href="https://dbeaver.io/"><img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" /></a>
+  <!-- Environment -->
+  <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="https://learn.microsoft.com/en-us/windows/wsl/"><img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=linux&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <!-- Team -->
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://trello.com/"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></a>
+  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="https://slack.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
+  <a href="https://digital.ai/"><img src="https://img.shields.io/badge/Digital.ai-0060E6?style=for-the-badge" /></a>
+  <a href="https://www.servicenow.com/"><img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by!** 👋
+*"Talk is cheap. Show me the code."* — Linus Torvalds
 
-*"Building the future, one line of code at a time."*
+<a href="mailto:rio.angan@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/angansamadder">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
