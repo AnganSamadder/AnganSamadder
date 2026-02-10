@@ -37,7 +37,7 @@ Whether it's reverse-engineering mobile data networks, training GANs to design g
 
 ## 🧪 The Lab (Featured Projects)
 
-### 💸 **PayBack**
+### 💸 **PayBack** | [payback.angan.dev](https://payback.angan.dev)
 > *Collaborative finance at the speed of thought.*
 >
 > **Tech Stack:** `SwiftUI` `Convex` `Swift` `Clerk` `XcodeGen`
