@@ -67,10 +67,10 @@ The core of my daily workflow. I maintain a suite of plugins for the OpenCode ag
 >
 > **Tech Stack:** `Go` `TypeScript` `Tmux` `Connect RPC` `Protobuf` `Bun`
 
-OpenTmux was rewritten around a Go control plane while preserving plugin compatibility. The TypeScript layer is now a thin shim that boots the daemon, forwards lifecycle events, and falls back to legacy TypeScript paths only when the Go runtime is unavailable.
+OpenTmux is designed around a Go control plane with a TypeScript plugin shim for seamless OpenCode integration. This architecture provides predictable concurrency, low-overhead long-running process control, and portable static binaries that stay reliable under bursty session loads.
 *   **Daemon + RPC Contract:** `opentmuxd` exposes `Init`, `OnSessionCreated`, `Stats`, and `Shutdown` over a Unix socket using generated Connect/Protobuf bindings, with `opentmuxctl` as the control client and `opentmux` as the CLI wrapper.
 *   **Deterministic Queueing & Cleanup:** A high-throughput Go spawn queue handles retry/backoff, stale-work skipping, and in-flight duplicate coalescing, while session polling and a dedicated reaper clean idle panes and zombie `opencode attach` processes.
-*   **Migration-Safe Runtime:** Public behavior remains stable through TypeScript shims (`src/index.ts`, `src/bin/opentmux.ts`) and legacy snapshots, with Go test coverage added for queue behavior, config normalization, and control service lifecycle.
+*   **Compatibility-First Interface:** Public behavior stays stable through TypeScript shims (`src/index.ts`, `src/bin/opentmux.ts`), with Go test coverage for queue behavior, config normalization, and control service lifecycle.
 
 #### 🔐 **Better Cursor Auth**
 > **Tech Stack:** `TypeScript` `Reverse Engineering` `Protobuf` `HTTP/2` `SQLite`
