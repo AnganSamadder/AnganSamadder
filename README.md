@@ -63,12 +63,14 @@ A superhuman Tetris engine engineered in Rust. It doesn't just play; it solves t
 The core of my daily workflow. I maintain a suite of plugins for the OpenCode agent runtime.
 
 #### 🖥️ **OpenTmux**
-> **Tech Stack:** `TypeScript` `Tmux` `Node-pty` `Process Orchestration`
+> *Go-first runtime for deterministic tmux orchestration under load.*
+>
+> **Tech Stack:** `Go` `TypeScript` `Tmux` `Connect RPC` `Protobuf` `Bun`
 
-A robust terminal manager that gives the agent persistent shell sessions.
-*   **Session Management:** Maintains a `Map<sessionId, TrackedSession>` state machine to map agent sub-tasks to specific tmux panes.
-*   **Zombie Reaper:** A background garbage collector that scans the process tree for orphaned `attach` processes and kills them if the parent session is dead, preventing resource leaks.
-*   **Spawn Queue:** Serializes pane creation with a mutex-like queue to prevent race conditions during parallel agent execution.
+OpenTmux was rewritten around a Go control plane while preserving plugin compatibility. The TypeScript layer is now a thin shim that boots the daemon, forwards lifecycle events, and falls back to legacy TypeScript paths only when the Go runtime is unavailable.
+*   **Daemon + RPC Contract:** `opentmuxd` exposes `Init`, `OnSessionCreated`, `Stats`, and `Shutdown` over a Unix socket using generated Connect/Protobuf bindings, with `opentmuxctl` as the control client and `opentmux` as the CLI wrapper.
+*   **Deterministic Queueing & Cleanup:** A high-throughput Go spawn queue handles retry/backoff, stale-work skipping, and in-flight duplicate coalescing, while session polling and a dedicated reaper clean idle panes and zombie `opencode attach` processes.
+*   **Migration-Safe Runtime:** Public behavior remains stable through TypeScript shims (`src/index.ts`, `src/bin/opentmux.ts`) and legacy snapshots, with Go test coverage added for queue behavior, config normalization, and control service lifecycle.
 
 #### 🔐 **Better Cursor Auth**
 > **Tech Stack:** `TypeScript` `Reverse Engineering` `Protobuf` `HTTP/2` `SQLite`
