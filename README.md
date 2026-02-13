@@ -2,16 +2,14 @@
 
 # Angan Samadder
 
-
-⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣄⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡔⣶⠀⠤⢀⣀⡠⠔⠢⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠈⢻⣷⠒⡖⠒⠉⠉⠀⠀⢿⡆⠀⠀⠀⠉⠉⠉⠉⠹⣳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⢤⠋⢸⡟⢶⣤⣄⣾⠁⣶⠋⠀⢑⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣾⣿⡿⠁⠀⠀⠀⠀⠀⠸⠗⠀⠐⢻⣍⠁⠀⠀⠉⠀⠀⠀⠀⠀⢾⡋⠀⢲⠖⠉⢁⣀⡼⢦⣼⣠⠞⢀⣾⡏⠘⣿⠷⠞⠋⠙⢢⣅⠠⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢠⣿⣿⠁⢠⠀⠦⣤⣀⡀⠀⠀⠀⣀⣠⡌⠑⠄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢿⡦⠖⠋⠠⠄⠀⣀⠤⣶⡾⢟⣛⣺⣥⣤⣀⣀⡀⠀⠸⡎⠂⢨⡏⣝⠓⠒⠂
-⠠⠤⢄⣋⣾⡏⠂⣀⡆⠀⠀⠉⠙⠛⠛⣛⣭⣩⡴⢶⠦⠞⠓⠂⠤⣀⡀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠢⣄⠉⠉⠁⠀⠀⠀⠉⠙⠓⠦⠀⠀⣾⣷⡏⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠁⠢⢈⠳⢤⣀⡴⠶⣿⡧⢀⡿⠏⢀⠚⢻⡟⢳⣤⡤⠞⠉⢻⠇⢀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⣀⣹⣤⠂⢤⣶⠀⠀⠀⠀⠀⠀⣼⣿⣿⠁⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣅⠀⢀⡼⡁⣼⠉⠛⠷⣄⣼⠃⣨⣃⡀⠤⠐⠛⠤⢀⣱⡆⠀⠀⠀⠰⣻⣄⣀⣀⣀⡀⠀⠀⢀⣿⡀⠀⢀⣀⡠⠼⠧⣻⣿⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠧⠠⠚⠉⠐⠒⠤⢾⣥⠽⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠙⠉⠉⠀⠀⠀⠀⠀⠉⠁⠂⠀⢀
-
+⠦⠤⣄⣀⡀⠀⠀⠀⠀⢀⣀⣤⠤⣤⣤⣤⣀⣀⣀⠀⠀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠖⢛⠒⠦⢤⣀⡤⠒⠲⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⠉⠙⠓⡒⠋⠉⠁⠀⠀⢹⠀⠀⠀⠀⠉⠉⠉⠉⠉⢹⠆⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡤⢶⠃⢠⠟⠶⢤⡀⣾⠀⣴⠃⠀⠙⡶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢨⡾⠁⠀⠀⠀⠀⠀⠘⠃⠀⠀⠺⣟⠓⠒⠒⠋⠁⠀⠀⠀⠀⣏⠉⠉⢻⠞⠉⢀⣀⡼⢄⣼⣀⠄⠀⢰⡏⠀⡧⠶⠂⠀⠁⠂⠉⠲⣄⣀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⢀⣀⠈⠙⠦⣀⠀⠀⠀⠀⠀⠀⠀⠉⠓⣧⣦⠴⠯⠤⢤⣀⣀⠀⢠⠤⠞⣛⣚⣁⣀⣀⣀⡀⠀⠀⠀⠀⠈⡍⠉⠙⠓⠒
+⢤⣄⣀⣀⣐⡇⠀⠀⠀⠀⠀⠉⠉⠋⠛⣋⣭⣡⠄⠶⠀⠈⠙⠒⠦⣤⣀⣀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⢦⡀⠈⠉⠀⠀⠀⠀⠉⠉⠓⠀⠀⠀⣰⠃⠀⠀⠀⠀
+⠀⠀⠀⠉⠉⠉⠓⢦⡀⠀⠄⢀⡀⠤⢶⡇⢀⡿⠀⠀⠐⢻⠚⢳⣤⡤⠞⠁⢂⡷⣄⡀⠀⠀⠀⠀⠀⢀⣠⠤⢤⣬⣷⡤⠀⠀⣤⠀⠀⠀⠀⠀⠀⣰⠯⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢾⡁⠀⢀⡼⠁⣸⠁⠒⠦⣤⡼⠁⢰⢇⣀⣤⠴⠯⣄⣀⣙⡆⠀⠀⠀⢸⣩⠀⣀⣀⣀⠀⠀⠀⠀⢻⠀⠀⠀⣀⣀⣤⣥⣐⡆⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⣠⠴⠛⠲⠦⣤⣚⣁⡰⠋⠉⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠙⠛⠛⠓⠚⠋⠉⠀⠀⠀⠈⠙⠓⠦⣄⣀
 
 </div>
 
@@ -38,17 +36,18 @@ Whether it's reverse-engineering mobile data networks, training GANs to design g
 ## 🧪 The Lab (Featured Projects)
 
 ### 💸 **PayBack** | [payback.angan.dev](https://payback.angan.dev)
-> *Collaborative finance at the speed of thought.*
+> *Collaborative finance at the speed of thought*
 >
-> **Tech Stack:** `SwiftUI` `Convex` `Swift` `Clerk` `XcodeGen`
+> **Tech Stack:** `SwiftUI` `Convex` `TanStack Router` `Tailwind v4` `Turborepo` `Clerk`
 
 A next-generation expense splitter engineered for zero friction. PayBack replaces clunky manual entry with a fluid, offline-first interface that syncs instantly. It treats shared finance as a real-time multiplayer experience, ensuring everyone stays settled up without the awkward math.
 *   **Predictive Smart-Splits:** Uses historical data and group context to intelligently suggest split percentages and categories, reducing entry time by 80%.
 *   **Graph-Optimized Settlements:** Minimizes payment cycles within complex groups using network flow algorithms, turning a web of debts into the fewest possible transactions.
 *   **Transitive Identity Resolution:** Implemented a transitive alias system (`A->B->C`) to merge "shadow members" (offline placeholders) into real user accounts when they sign up, preventing data fragmentation.
+*   **Offline-First Architecture:** Built a conflict-free replicated data type (CRDT) layer that queues mutations locally during network gaps and reconciles on reconnection, ensuring zero data loss in poor connectivity scenarios.
 
 ### 🧩 **z-spin**
-> *Tetris at the speed of light.*
+> *Tetris at the speed of light*
 >
 > **Tech Stack:** `Rust` `WebAssembly` `WebGL` `TypeScript` `Rayon`
 
@@ -57,8 +56,18 @@ A superhuman Tetris engine engineered in Rust. It doesn't just play; it solves t
 *   **Smart Mixed Strategies:** The evaluation function isn't static; it dynamically switches between "Survival" (stack flat), "T-Spin Setup" (build overhangs), and "Downstack" (burn lines) modes based on the current garbage queue and board height.
 *   **Rust Optimization:** Leveraged Rust's zero-cost abstractions to implement bitwise collision detection that runs 100x faster than traditional object-oriented grids, allowing the bot to look ahead 10+ pieces in real-time.
 
+### 🛡️ **Playproof** 
+> *Universal human verification via generative mini-games*
+>
+> **Tech Stack:** `TypeScript` `Three.js` `Convex` `Next.js` `Woodwide AI` `LiveKit`
+
+A next-generation human verification system that replaces boring CAPTCHAs with interactive 3D mini-games. Instead of identifying traffic lights, Playproof monitors high-frequency behavioral telemetry—velocity, acceleration, and jerk—to distinguish humans from bots with 99.9% accuracy.
+*   **Behavioral Anomaly Detection:** Integrates Woodwide ML to analyze granular movement features (path efficiency, jitter) in real-time, catching bots that simulate human clicks but fail on micro-movements.
+*   **Generative Game Engine:** Dynamically constructs game scenes using chained LLM tool calls, ensuring every verification challenge is unique and immune to pre-trained computer vision attacks.
+*   **Real-time Telemetry Streaming:** Leverages LiveKit to stream behavioral data packets instantly to the scoring engine, allowing for sub-100ms verification decisions without adding friction.
+
 ### 🛠️ **OpenCode Plugins & Features**
-> *Extending the AI engineer's OS.*
+> *Extending the AI engineer's OS*
 
 The core of my daily workflow. I maintain a suite of plugins for the OpenCode agent runtime.
 
@@ -79,6 +88,14 @@ A custom authentication handler that bypasses the flaky standard login flow.
 *   **Deep Reverse Engineering:** Manually constructs binary **Protobuf** messages byte-by-byte to perfectly mimic the official Cursor client, including custom checksums and machine ID generation.
 *   **Direct DB Access:** Bypasses the keychain to read the encrypted `accessToken` directly from Cursor's internal `state.vscdb` SQLite database.
 *   **Native HTTP/2:** Implements a full duplex HTTP/2 client to stream tokens directly to the `api2.cursor.sh` endpoint, bypassing intermediate proxies.
+
+#### 🌐 **OpenKilo**
+> **Tech Stack:** `TypeScript` `OAuth 2.0` `Kilo Gateway` `OpenRouter API` `TTL Caching`
+
+A zero-config AI model gateway that unlocks 40+ free models (and 350+ paid) for OpenCode agents. Instead of juggling API keys across providers, OpenKilo abstracts authentication behind a single plugin with anonymous access for free tiers and OAuth for premium models.
+*   **Anonymous Free Tier:** Unlocks top-tier open-source models like **GLM-5**, **Kimi K2.5**, and **DeepSeek V3.2** without any user registration—true zero-friction onboarding.
+*   **Dynamic Model Transformation:** Implements a real-time schema mapper that converts Kilo Gateway's OpenRouter-compatible responses into OpenCode's provider format, handling context limits, modalities, and pricing metadata automatically.
+*   **Smart Registry Caching:** Fetches and caches the live model registry with a 1-hour TTL, ensuring sub-second model lookups while staying fresh with newly released models.
 
 #### 🔄 **Auto Update**
 > **Tech Stack:** `Semver` `Git` `CI/CD`
@@ -101,7 +118,7 @@ A custom rendering engine engineered for high-frequency token streaming.
 
 
 ### 🍳 **TasteTinker**
-> *The computational chef that hallucinates deliciousness.*
+> *The computational chef that hallucinates deliciousness*
 >
 > **Tech Stack:** `SwiftUI` `Django` `PyTorch` `CoreML` `Docker`
 
@@ -111,7 +128,7 @@ A culinary AI that doesn't just scrape recipes—it invents them. By modeling fl
 *   **Hybrid Inference Engine:** Orchestrates a 7B parameter LLM for creativity and a constrained solver for nutrition/safety, ensuring recipes are edible while running sub-100ms on a T4 GPU.
 
 ### 🍄 **MarioGAN**
-> *Infinite Mario, generated by dreaming machines.*
+> *Infinite Mario, generated by dreaming machines*
 >
 > **Tech Stack:** `PyTorch` `Java` `WGAN-GP` `CMA-ES` `VGLC`
 
@@ -121,7 +138,7 @@ A procedural content generation system that doesn't just stack blocks—it *evol
 *   **Style Transfer:** The GAN was trained on the VGLC (Video Game Level Corpus), allowing it to interpolate between "Overworld" and "Underground" styles by traversing the latent space.
 
 ### 📈 **Finsights**
-> *Wall Street-grade analysis, democratized.*
+> *Wall Street-grade analysis, democratized*
 >
 > **Tech Stack:** `Next.js` `Python` `TensorFlow` `Edgar-Tools` `Alpaca API`
 
@@ -131,7 +148,7 @@ An institutional-grade financial intelligence platform. It doesn't just read new
 *   **Whale Tracking:** Real-time analysis of 13F filings to reverse-engineer the positions of major funds like Renaissance Technologies and BlackRock.
 
 ### 📱 **AR-You-Covered**
-> *Pokemon Go, but for insurance claims.*
+> *Pokemon Go, but for insurance claims*
 >
 > **Tech Stack:** `Kotlin` `ARCore` `Jetpack Compose` `Firebase` `Google Maps`
 
@@ -140,8 +157,18 @@ A geolocation-based AR game that gamifies the insurance inspection process. User
 *   **Geofence Service:** Implemented a background broadcast receiver that triggers AR encounters only when the user enters a 15m radius of a target coordinate, optimizing battery life by keeping the camera off until needed.
 *   **SceneView Integration:** Replaced the deprecated Sceneform library with SceneView for rendering 3D assets, enabling high-fidelity PBR materials and shadows on Android devices.
 
+### 🥁 **Rythmiq** | [rythmiq.co](https://rythmiq.co)
+> *The AI drummer that never misses a beat*
+>
+> **Tech Stack:** `TypeScript` `Magenta.js` `Next.js` `WebMIDI` `TensorFlow.js`
+
+An intelligent jam companion that generates real-time drum accompaniment for electric guitars. Instead of static backing tracks, Rythmiq listens to live MIDI input and improvises dynamic percussion that reacts to the guitarist's rhythm and intensity.
+*   **Real-time Accompaniment:** Fine-tuned a Magenta MusicVAE model on 60,000+ MIDI songs to predict and generate drum patterns that harmonically align with incoming guitar melodies in under 50ms.
+*   **Distributed Training Pipeline:** Orchestrated a custom distributed training cluster across consumer GPUs using WSL2 and CUDA to handle the massive dataset required for style-consistent improvisation.
+*   **Browser-Native Performance:** Optimized the inference engine to run entirely client-side using TensorFlow.js and WebMIDI, ensuring zero-latency synchronization critical for live musical performance.
+
 ### 🎨 **Pen2Panel**
-> *Sketches to Comics, instantly.*
+> *Sketches to Comics, instantly*
 >
 > **Tech Stack:** `Next.js` `Python` `Gemini Pro` `Stable Diffusion` `Flask`
 
@@ -152,7 +179,7 @@ A generative AI pipeline that transforms rough storyboard sketches into fully re
 
 
 ### 📝 **Swift Note**
-> *Notion, but fast. Really fast.*
+> *Notion, but fast. Really fast*
 >
 > **Tech Stack:** `Next.js 15` `Lexical` `TypeScript` `Tailwind CSS` `Vercel`
 
